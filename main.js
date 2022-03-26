@@ -66,11 +66,5 @@ function getRandomCard(){
     }
 }
 
-let person = {
-    name: "chibuzor",
-    chips: 200
-}
-
-personEl.textContent = person.name + ": $" + person.chips
 
 
